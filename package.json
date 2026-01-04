@@ -10,7 +10,8 @@
     "@hono/oauth-providers": "0.8.0",
     "damage-calc": "https://github.com/nnn-training/damage-calc-4006.git",
     "hono": "^4.7.10",
-    "iron-session": "8.0.1"
+    "iron-session": "8.0.1",
+    "jquery": "3.7.1"
   },
   "devDependencies": {
     "@babel/core": "7.23.9",
